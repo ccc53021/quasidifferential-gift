@@ -1,0 +1,2235 @@
+196 characteristics:
+
+route 1 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 2 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 3 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 4 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 5 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[0] + k2[8] +  = 0
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 6 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[0] + k2[8] +  = 0
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 7 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 8 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 9 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 10 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 11 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[0] + k2[8] +  = 0
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 12 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 13 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 14 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 15 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 16 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[0] + k2[8] +  = 0
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 17 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 18 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 19 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 20 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 21 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 22 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 23 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 24 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 25 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 26 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 27 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 28 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 29 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 30 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 31 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 32 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 33 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 34 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 35 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 36 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 37 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 38 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 39 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[4] + k2[12] +  = 0
+# k6[1] + k6[9] +  = 0
+# k6[5] + k6[13] +  = 0
+
+route 40 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 41 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 42 :
+weight 0 : 32 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 32
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 43 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[0] + k2[8] +  = 0
+# k6[1] + k6[9] +  = 0
+
+route 44 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 45 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 46 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 47 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 48 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 49 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 50 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 51 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 52 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 53 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 54 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 55 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 56 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 57 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 58 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 59 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 60 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 61 :
+weight 0 : 32 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 32
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 62 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 63 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[0] + k2[8] +  = 0
+# k6[1] + k6[9] +  = 0
+
+route 64 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 65 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 66 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 67 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 68 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 69 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 70 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[0] + k2[8] +  = 0
+# k6[1] + k6[9] +  = 0
+
+route 71 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 72 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 73 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 74 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 75 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 76 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[0] + k2[8] +  = 0
+# k6[1] + k6[9] +  = 0
+
+route 77 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 78 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 79 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 80 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 81 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 82 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 83 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 84 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 85 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 86 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 87 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 88 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 89 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 90 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 91 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 92 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 93 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 94 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 95 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 96 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 97 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 98 :
+weight 0 : 32 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 32
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 99 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 100 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 101 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 102 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 103 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 104 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 105 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 106 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 107 :
+weight 0 : 32 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 32
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 108 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 109 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 110 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 111 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 112 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 113 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 114 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 115 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 116 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 117 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k2[5] + k2[13] +  = 0
+
+route 118 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 119 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 120 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 121 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 122 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 123 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 124 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 125 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 126 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 127 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 128 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 129 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 130 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 131 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 132 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 133 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 134 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 135 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 136 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 137 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 138 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 139 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 140 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 141 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 142 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 143 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 144 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 145 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 146 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 147 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 148 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 149 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 150 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 151 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 152 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 153 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 154 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k2[5] + k2[13] +  = 0
+
+route 155 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 156 :
+weight 0 : 8 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 8
+# coefficient matrix's rank = 3, augmented matrix's rank = 3
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 157 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 158 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 159 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 160 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k6[1] + k6[9] +  = 0
+
+route 161 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 162 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 163 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 164 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 165 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 166 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 167 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 168 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 169 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 170 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k2[5] + k2[13] +  = 0
+
+route 171 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 172 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 173 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 174 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 175 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 176 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 177 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 178 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 179 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 180 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 181 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 182 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 183 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 184 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 185 :
+weight 0 : 2 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 2
+# coefficient matrix's rank = 1, augmented matrix's rank = 1
+# k2[5] + k2[13] +  = 0
+
+route 186 :
+weight 0 : 4 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 4
+# coefficient matrix's rank = 2, augmented matrix's rank = 2
+# k2[1] + k2[9] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 187 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 188 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 189 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 190 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 191 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 192 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 193 :
+weight 0 : 16 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 16
+# coefficient matrix's rank = 4, augmented matrix's rank = 4
+# k2[1] + k2[9] +  = 0
+# k2[5] + k2[13] +  = 0
+# k6[0] + k6[8] +  = 0
+# k6[4] + k6[12] +  = 0
+
+route 194 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 195 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+route 196 :
+weight 0 : 1 quasidfferentials
+
+# ------------------------ expressions of key ------------------------
+
+# sign = -1 trail number = 0
+# sign = +1 trail number = 1
+# coefficient matrix's rank = 0, augmented matrix's rank = 0
+
+9 valid possibilities of master key space
+
+valid 1 :
+master key space : [[[6, 1], [6, 9], 0]]
+routes number in this space : 32
+routes index : [1, 48, 68, 71, 78, 81, 82, 83, 84, 88, 89, 90, 96, 97, 99, 100, 113, 118, 119, 120, 122, 123, 125, 126, 127, 134, 147, 151, 157, 158, 159, 160]
+quasidifferential number in this space : 64
+1 output differences in current space
+      output difference 1 : 0x0000000000001010
+      32  routes index in this output difference : [1, 48, 68, 71, 78, 81, 82, 83, 84, 88, 89, 90, 96, 97, 99, 100, 113, 118, 119, 120, 122, 123, 125, 126, 127, 134, 147, 151, 157, 158, 159, 160]
+      64 quasidifferential number in this output difference
+
+valid 2 :
+master key space : [[[2, 4], [2, 12], 0], [[6, 1], [6, 9], 0], [[6, 5], [6, 13], 0]]
+routes number in this space : 32
+routes index : [2, 7, 8, 9, 10, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
+quasidifferential number in this space : 256
+1 output differences in current space
+      output difference 1 : 0x0000000000001010
+      32  routes index in this output difference : [2, 7, 8, 9, 10, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
+      256 quasidifferential number in this output difference
+
+valid 3 :
+master key space : [[[2, 1], [2, 9], 0], [[6, 4], [6, 12], 0]]
+routes number in this space : 32
+routes index : [3, 45, 46, 49, 53, 57, 62, 75, 85, 86, 105, 106, 115, 116, 124, 129, 130, 131, 136, 138, 144, 145, 146, 149, 150, 152, 155, 164, 165, 168, 180, 186]
+quasidifferential number in this space : 128
+1 output differences in current space
+      output difference 1 : 0x0000000000001010
+      32  routes index in this output difference : [3, 45, 46, 49, 53, 57, 62, 75, 85, 86, 105, 106, 115, 116, 124, 129, 130, 131, 136, 138, 144, 145, 146, 149, 150, 152, 155, 164, 165, 168, 180, 186]
+      128 quasidifferential number in this output difference
+
+valid 4 :
+master key space : []
+routes number in this space : 48
+routes index : [4, 47, 56, 64, 66, 67, 69, 72, 73, 74, 77, 79, 80, 87, 91, 92, 93, 95, 101, 103, 104, 121, 133, 135, 139, 140, 148, 153, 166, 169, 171, 172, 173, 174, 175, 176, 177, 179, 182, 183, 184, 187, 188, 189, 190, 194, 195, 196]
+quasidifferential number in this space : 48
+1 output differences in current space
+      output difference 1 : 0x0000000000001010
+      48  routes index in this output difference : [4, 47, 56, 64, 66, 67, 69, 72, 73, 74, 77, 79, 80, 87, 91, 92, 93, 95, 101, 103, 104, 121, 133, 135, 139, 140, 148, 153, 166, 169, 171, 172, 173, 174, 175, 176, 177, 179, 182, 183, 184, 187, 188, 189, 190, 194, 195, 196]
+      48 quasidifferential number in this output difference
+
+valid 5 :
+master key space : [[[2, 0], [2, 8], 0], [[2, 4], [2, 12], 0], [[6, 1], [6, 9], 0], [[6, 5], [6, 13], 0]]
+routes number in this space : 4
+routes index : [5, 6, 11, 16]
+quasidifferential number in this space : 64
+1 output differences in current space
+      output difference 1 : 0x0000000000001010
+      4  routes index in this output difference : [5, 6, 11, 16]
+      64 quasidifferential number in this output difference
+
+valid 6 :
+master key space : [[[2, 1], [2, 9], 0], [[2, 5], [2, 13], 0], [[6, 4], [6, 12], 0]]
+routes number in this space : 4
+routes index : [40, 128, 142, 156]
+quasidifferential number in this space : 32
+1 output differences in current space
+      output difference 1 : 0x0000000000001010
+      4  routes index in this output difference : [40, 128, 142, 156]
+      32 quasidifferential number in this output difference
+
+valid 7 :
+master key space : [[[2, 1], [2, 9], 0], [[2, 5], [2, 13], 0], [[6, 0], [6, 8], 0], [[6, 4], [6, 12], 0]]
+routes number in this space : 36
+routes index : [41, 42, 44, 50, 51, 52, 54, 55, 58, 59, 60, 61, 65, 94, 98, 102, 107, 108, 109, 110, 111, 112, 114, 132, 137, 141, 143, 161, 162, 163, 167, 178, 181, 191, 192, 193]
+quasidifferential number in this space : 640
+1 output differences in current space
+      output difference 1 : 0x0000000000001010
+      36  routes index in this output difference : [41, 42, 44, 50, 51, 52, 54, 55, 58, 59, 60, 61, 65, 94, 98, 102, 107, 108, 109, 110, 111, 112, 114, 132, 137, 141, 143, 161, 162, 163, 167, 178, 181, 191, 192, 193]
+      640 quasidifferential number in this output difference
+
+valid 8 :
+master key space : [[[2, 0], [2, 8], 0], [[6, 1], [6, 9], 0]]
+routes number in this space : 4
+routes index : [43, 63, 70, 76]
+quasidifferential number in this space : 16
+1 output differences in current space
+      output difference 1 : 0x0000000000001010
+      4  routes index in this output difference : [43, 63, 70, 76]
+      16 quasidifferential number in this output difference
+
+valid 9 :
+master key space : [[[2, 5], [2, 13], 0]]
+routes number in this space : 4
+routes index : [117, 154, 170, 185]
+quasidifferential number in this space : 8
+1 output differences in current space
+      output difference 1 : 0x0000000000001010
+      4  routes index in this output difference : [117, 154, 170, 185]
+      8 quasidifferential number in this output difference
+
+0 invalid possibilities of master key space
